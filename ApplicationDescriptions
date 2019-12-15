@@ -1,0 +1,9 @@
+Classification In R Shiny Applications
+
+Parkinson's Prediction Application
+
+The R Shiny application provides the ability to perform data exploration on the Parkinson's dataset, then explore classification models. The user can select a Logistic Regression, Linear Discriminant Analysis, Quadratic Discriminant Analysis, or K-NEarest Neighbors model to predict whether the patient has Parkinson's. The user can furhter select which variables to include in the model. The models are 10 fold cross validated trained and tested.
+
+Iris Classification Application
+
+Like the Parkinson's R Shiny application, the Iris R Shiny application provides the ability to perform data exploration and formulate classification models using the default R Iris dataset. The application automatically classifies a data point using K-Nearest Neighbors, Linear Discriminant Analysis, and Quadratic Discriminant Analysis.
